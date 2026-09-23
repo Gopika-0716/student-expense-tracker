@@ -1,3 +1,4 @@
+
 # 🎓 Student Expense Tracker
 
 A beginner-friendly, lightweight, and modern daily expense tracking web application crafted specifically for students to monitor their allowance, manage budgets, search/filter transaction history, and visualize spending habits across categories.
@@ -166,3 +167,7 @@ While this version is designed to be accessible and straightforward for students
 - **Date Range Filters**: Filter expenses by week, month, or custom date ranges.
 - **Dark Mode Toggle**: Optional dark color scheme switch.
 - **Multi-Currency Support**: Option to switch between USD (`$`), EUR (`€`), GBP (`£`), INR (`₹`), and other regional currencies.
+=======
+# student-expense-tracker
+A simple web-based Student Expense Tracker for managing and monitoring daily expenses.
+>>>>>>> b18c500ea773ef8c3f8141208239a5716a0793fa

@@ -146,7 +146,8 @@ The application uses the browser's `window.localStorage` key-value store to main
 
 ## 📸 Screenshots
 
-*(Place screenshots of your application here)*
+*(Place screenshots of your application here)*<img width="1880" height="907" alt="image" src="https://github.com/user-attachments/assets/c09cc4a8-0bfb-4aa5-8f2b-811c6fb1760d" />
+
 
 ### 1. Desktop Dashboard Overview
 > *Dashboard summary cards, budget visualizer, expense addition form, and dynamic expense history.*
